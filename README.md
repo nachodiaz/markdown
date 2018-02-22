@@ -1,4 +1,4 @@
-## Mastering Markdown, Course by Wes Bos ! :fire:
+## Mastering Markdown, Mini Series by Wes Bos ! :fire: :sunglasses::sunglasses:
 
 ----
 Here I'm Learning Tips for the Lenguage MarkDown 
