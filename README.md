@@ -49,4 +49,4 @@ and
 ## This is a course of Wes Bos
 
 ## Please Visit this site of [Wes Bos](http://wesbos.com) 
-** Thanks Teacher ** !!! :Smiley:
+** Thanks Teacher ** !!! :blush: :sunglasses: :sunglasses:
