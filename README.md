@@ -34,7 +34,7 @@ ___
 
 ---
 
-## Imges 
+## Images 
 
 
 ![Wow great pic](http://unsplash.it/300/300?image=100))
