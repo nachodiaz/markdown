@@ -1,4 +1,5 @@
 ## Mastering Markdown, Course by Wes Bos ! :fire:
+
 ----
 Here I'm Learning Tips for the Lenguage MarkDown 
 for ejemplo 
@@ -10,6 +11,9 @@ for ejemplo
 * [x] Line Breask.
 
 ---
+
+### Expmale Code Blocks 
+
 ```jsx
     <script type="text/babel">
         ReactDOM.render(
@@ -20,13 +24,16 @@ for ejemplo
 ```
 
 ## Tables 
+___
 
-| Dog's Nmae | Dogs' Age | 
-|:-----------|:----------|
+| Dog's Nmae | Dogs' Age |
+|:-----------|:----------
 |Snickers|2|
 |Prudence|8|
 
+
 ---
+
 ## Imges 
 
 

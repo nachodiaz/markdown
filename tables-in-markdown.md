@@ -1,5 +1,5 @@
-| Dog's Nmae | Dogs' Age | 
-|:-----------|:----------|
+| Dog's Nmae | Dogs' Age |
+|:-----------|:----------
 |Snickers|2|
 |Prudence|8|
 
