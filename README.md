@@ -17,7 +17,7 @@ for ejemplo
 ```jsx
     <script type="text/babel">
         ReactDOM.render(
-            <h1>Hola Nacho, ¡Bienvenido a React!</h1>,
+            <h1>Hola Nacho</h1>,
             document.getElementById('mensaje')
         );
     </script>
